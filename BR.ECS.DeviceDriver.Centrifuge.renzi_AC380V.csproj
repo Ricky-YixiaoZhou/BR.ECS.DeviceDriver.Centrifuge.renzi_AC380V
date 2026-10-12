@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BR.ECS.Executor.Device.AP.SAR">
+      <HintPath>bin\Debug\net8.0\BR.ECS.Executor.Device.AP.SAR.dll</HintPath>
+    </Reference>
+    <Reference Include="BR.ECS.Executor.Device.Domain.Contracts">
+      <HintPath>bin\Debug\net8.0\BR.ECS.Executor.Device.Domain.Contracts.dll</HintPath>
+    </Reference>
+    <Reference Include="BR.ECS.Executor.Device.Domain.Share">
+      <HintPath>bin\Debug\net8.0\BR.ECS.Executor.Device.Domain.Share.dll</HintPath>
+    </Reference>
+    <Reference Include="BR.ECS.Executor.Device.Infrastructure">
+      <HintPath>bin\Debug\net8.0\BR.ECS.Executor.Device.Infrastructure.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

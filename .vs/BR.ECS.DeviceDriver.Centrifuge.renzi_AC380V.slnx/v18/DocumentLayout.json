@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u5954\u66DC\\Works\\\u5BA2\u6237\u9879\u76EE\u8D44\u6599\u5408\u96C6\\\u5357\u4EAC-\u5317\u4EAC\u5065\u80FD-\u767E\u6D4E-G3\u002B\u79BB\u5FC3\u673A-SO-NJ-AP-G-26-002\\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52542268-0AD3-2EF8-8C53-C11C007EAC61}|BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.csproj|c:\\\u5954\u66DC\\works\\\u5BA2\u6237\u9879\u76EE\u8D44\u6599\u5408\u96C6\\\u5357\u4EAC-\u5317\u4EAC\u5065\u80FD-\u767E\u6D4E-g3\u002B\u79BB\u5FC3\u673A-so-nj-ap-g-26-002\\br.ecs.devicedriver.centrifuge.renzi_ac380v\\centrifuge_renzi_ac380v.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52542268-0AD3-2EF8-8C53-C11C007EAC61}|BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.csproj|solutionrelative:centrifuge_renzi_ac380v.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52542268-0AD3-2EF8-8C53-C11C007EAC61}|BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.csproj|c:\\\u5954\u66DC\\works\\\u5BA2\u6237\u9879\u76EE\u8D44\u6599\u5408\u96C6\\\u5357\u4EAC-\u5317\u4EAC\u5065\u80FD-\u767E\u6D4E-g3\u002B\u79BB\u5FC3\u673A-so-nj-ap-g-26-002\\br.ecs.devicedriver.centrifuge.renzi_ac380v\\communicationpars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52542268-0AD3-2EF8-8C53-C11C007EAC61}|BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.csproj|solutionrelative:communicationpars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommunicationPars.cs",
+              "DocumentMoniker": "C:\\\u5954\u66DC\\Works\\\u5BA2\u6237\u9879\u76EE\u8D44\u6599\u5408\u96C6\\\u5357\u4EAC-\u5317\u4EAC\u5065\u80FD-\u767E\u6D4E-G3\u002B\u79BB\u5FC3\u673A-SO-NJ-AP-G-26-002\\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V\\CommunicationPars.cs",
+              "RelativeDocumentMoniker": "CommunicationPars.cs",
+              "ToolTip": "C:\\\u5954\u66DC\\Works\\\u5BA2\u6237\u9879\u76EE\u8D44\u6599\u5408\u96C6\\\u5357\u4EAC-\u5317\u4EAC\u5065\u80FD-\u767E\u6D4E-G3\u002B\u79BB\u5FC3\u673A-SO-NJ-AP-G-26-002\\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V\\CommunicationPars.cs",
+              "RelativeToolTip": "CommunicationPars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T02:18:38.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Centrifuge_renzi_AC380V.cs",
+              "DocumentMoniker": "C:\\\u5954\u66DC\\Works\\\u5BA2\u6237\u9879\u76EE\u8D44\u6599\u5408\u96C6\\\u5357\u4EAC-\u5317\u4EAC\u5065\u80FD-\u767E\u6D4E-G3\u002B\u79BB\u5FC3\u673A-SO-NJ-AP-G-26-002\\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V\\Centrifuge_renzi_AC380V.cs",
+              "RelativeDocumentMoniker": "Centrifuge_renzi_AC380V.cs",
+              "ToolTip": "C:\\\u5954\u66DC\\Works\\\u5BA2\u6237\u9879\u76EE\u8D44\u6599\u5408\u96C6\\\u5357\u4EAC-\u5317\u4EAC\u5065\u80FD-\u767E\u6D4E-G3\u002B\u79BB\u5FC3\u673A-SO-NJ-AP-G-26-002\\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V\\Centrifuge_renzi_AC380V.cs",
+              "RelativeToolTip": "Centrifuge_renzi_AC380V.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAA8wBUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T02:18:32.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

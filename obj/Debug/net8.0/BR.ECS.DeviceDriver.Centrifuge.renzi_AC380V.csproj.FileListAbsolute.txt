@@ -1,0 +1,15 @@
+C:\奔曜\Works\客户项目资料合集\南京-北京健能-百济-G3+离心机-SO-NJ-AP-G-26-002\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V\bin\Debug\net8.0\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.deps.json
+C:\奔曜\Works\客户项目资料合集\南京-北京健能-百济-G3+离心机-SO-NJ-AP-G-26-002\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V\bin\Debug\net8.0\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.dll
+C:\奔曜\Works\客户项目资料合集\南京-北京健能-百济-G3+离心机-SO-NJ-AP-G-26-002\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V\bin\Debug\net8.0\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.pdb
+C:\奔曜\Works\客户项目资料合集\南京-北京健能-百济-G3+离心机-SO-NJ-AP-G-26-002\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V\obj\Debug\net8.0\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.csproj.AssemblyReference.cache
+C:\奔曜\Works\客户项目资料合集\南京-北京健能-百济-G3+离心机-SO-NJ-AP-G-26-002\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V\obj\Debug\net8.0\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.GeneratedMSBuildEditorConfig.editorconfig
+C:\奔曜\Works\客户项目资料合集\南京-北京健能-百济-G3+离心机-SO-NJ-AP-G-26-002\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V\obj\Debug\net8.0\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.AssemblyInfoInputs.cache
+C:\奔曜\Works\客户项目资料合集\南京-北京健能-百济-G3+离心机-SO-NJ-AP-G-26-002\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V\obj\Debug\net8.0\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.AssemblyInfo.cs
+C:\奔曜\Works\客户项目资料合集\南京-北京健能-百济-G3+离心机-SO-NJ-AP-G-26-002\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V\obj\Debug\net8.0\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.csproj.CoreCompileInputs.cache
+C:\奔曜\Works\客户项目资料合集\南京-北京健能-百济-G3+离心机-SO-NJ-AP-G-26-002\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V\obj\Debug\net8.0\BR.ECS.D.4CE984BF.Up2Date
+C:\奔曜\Works\客户项目资料合集\南京-北京健能-百济-G3+离心机-SO-NJ-AP-G-26-002\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V\obj\Debug\net8.0\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.dll
+C:\奔曜\Works\客户项目资料合集\南京-北京健能-百济-G3+离心机-SO-NJ-AP-G-26-002\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V\obj\Debug\net8.0\refint\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.dll
+C:\奔曜\Works\客户项目资料合集\南京-北京健能-百济-G3+离心机-SO-NJ-AP-G-26-002\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V\obj\Debug\net8.0\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.pdb
+C:\奔曜\Works\客户项目资料合集\南京-北京健能-百济-G3+离心机-SO-NJ-AP-G-26-002\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V\obj\Debug\net8.0\ref\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.dll
+C:\奔曜\Works\客户项目资料合集\南京-北京健能-百济-G3+离心机-SO-NJ-AP-G-26-002\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V\bin\Debug\net8.0\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.xml
+C:\奔曜\Works\客户项目资料合集\南京-北京健能-百济-G3+离心机-SO-NJ-AP-G-26-002\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V\obj\Debug\net8.0\BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.xml

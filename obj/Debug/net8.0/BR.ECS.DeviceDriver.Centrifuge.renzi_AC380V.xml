@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V</name>
+    </assembly>
+    <members>
+        <member name="M:BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.Centrifuge_renzi_AC380V.SendAndReceiveOne(System.String)">
+            <summary>
+            发送命令并接收响应
+            </summary>
+            <param name="command">命令</param>
+            <returns></returns>
+            <exception cref="T:BR.ECS.Executor.Device.Domain.Share.DeviceException"></exception>
+        </member>
+        <member name="M:BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.Centrifuge_renzi_AC380V.ConstructCompleteFrame(System.String)">
+            <summary>
+            构建完整的数据帧
+            </summary>
+            <param name="command">命令</param>
+            <returns></returns>
+            <exception cref="T:BR.ECS.Executor.Device.Domain.Share.DeviceException"></exception>
+        </member>
+        <member name="M:BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.Centrifuge_renzi_AC380V.CalculateCrc(System.ReadOnlySpan{System.Byte})">
+            <summary>
+            计算 CRC 校验码
+            </summary>
+            <param name="data">数据</param>
+            <returns></returns>
+            <exception cref="T:BR.ECS.Executor.Device.Domain.Share.DeviceException"></exception>
+        </member>
+        <member name="M:BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.Centrifuge_renzi_AC380V.ParseReadSingleRegisterResponse(System.Byte[])">
+            <summary>
+            校验读取单个寄存器的 Modbus RTU 响应，并返回寄存器值。
+            </summary>
+        </member>
+        <member name="M:BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.Centrifuge_renzi_AC380V.ParseWriteSingleRegisterResponse(System.Byte[],System.UInt16,System.UInt16)">
+            <summary>
+            校验写入单个寄存器（功能码 06）的 Modbus RTU 响应。
+            功能码 06 的正常响应会原样回显从机地址、寄存器地址和写入值。
+            </summary>
+            <param name="frame">离心机返回的完整 Modbus RTU 响应帧。</param>
+            <param name="expectedRegisterAddress">本次命令期望写入的寄存器地址。</param>
+            <param name="expectedRegisterValue">本次命令期望写入的寄存器值。</param>
+        </member>
+        <member name="M:BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.Centrifuge_renzi_AC380V.BY_EnquiryErrorType">
+            <summary>
+            查询错误类型
+            </summary>
+            <returns>设备状态说明</returns>
+            <exception cref="T:BR.ECS.Executor.Device.Domain.Share.DeviceException"></exception>
+        </member>
+        <member name="M:BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.Centrifuge_renzi_AC380V.BY_EnquiryDeviceState">
+            <summary>
+            查询设备状态
+            </summary>
+            <returns>设备状态说明</returns>
+            <exception cref="T:BR.ECS.Executor.Device.Domain.Share.DeviceException"></exception>
+        </member>
+        <member name="M:BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.Centrifuge_renzi_AC380V.BY_EnquiryDoorState">
+            <summary>
+            查询舱门状态
+            </summary>
+            <returns>舱门状态说明</returns>
+            <exception cref="T:BR.ECS.Executor.Device.Domain.Share.DeviceException"></exception>
+        </member>
+        <member name="M:BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.Centrifuge_renzi_AC380V.BY_EnquiryRotorState">
+            <summary>
+            查询转子状态。
+            </summary>
+            <returns>转子定位状态。</returns>
+            <exception cref="T:BR.ECS.Executor.Device.Domain.Share.DeviceException"></exception>
+        </member>
+        <member name="M:BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.Centrifuge_renzi_AC380V.BY_OpenDoor">
+            <summary>
+            打开舱门
+            </summary>
+            <returns>打开舱门</returns>
+            <exception cref="T:BR.ECS.Executor.Device.Domain.Share.DeviceException"></exception>
+        </member>
+        <member name="M:BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.Centrifuge_renzi_AC380V.BY_SetTargetPosition(System.Int32)">
+            <summary>
+            设置目标位置
+            </summary>
+            <param name="targetPosition">目标位置编号，允许范围为 1～8。</param>
+            <returns>置目标位置</returns>
+            <exception cref="T:BR.ECS.Executor.Device.Domain.Share.DeviceException"></exception>
+        </member>
+        <member name="M:BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.Centrifuge_renzi_AC380V.BY_SlowPosRotor">
+            <summary>
+            慢速定位转子
+            </summary>
+            <returns>慢速定位转子</returns>
+            <exception cref="T:BR.ECS.Executor.Device.Domain.Share.DeviceException"></exception>
+        </member>
+        <member name="M:BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.Centrifuge_renzi_AC380V.BY_QuickPosRotor">
+            <summary>
+            快速定位转子
+            </summary>
+            <returns>快速定位转子</returns>
+            <exception cref="T:BR.ECS.Executor.Device.Domain.Share.DeviceException"></exception>
+        </member>
+        <member name="M:BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.Centrifuge_renzi_AC380V.BY_CloseDoor">
+            <summary>
+            关闭舱门
+            </summary>
+            <returns>关闭舱门</returns>
+            <exception cref="T:BR.ECS.Executor.Device.Domain.Share.DeviceException"></exception>
+            
+        </member>
+        <member name="M:BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.Centrifuge_renzi_AC380V.BY_SETRUNINFO(System.String,System.String,System.String)">
+            <summary>
+            设置转速-时间-温度
+            </summary>
+            <returns>设置转速-时间-温度</returns>
+            <exception cref="T:BR.ECS.Executor.Device.Domain.Share.DeviceException"></exception>
+            
+        </member>
+        <member name="M:BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.Centrifuge_renzi_AC380V.WriteRunParameter(System.UInt16,System.UInt16,System.String)">
+            <summary>
+            写入一个运行参数。功能码 06 的响应应回显写入的地址和值。
+            </summary>
+        </member>
+        <member name="M:BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.Centrifuge_renzi_AC380V.BY_StartCentrifuge(System.String,System.String,System.String)">
+            <summary>
+            启动离心
+            </summary>
+            <returns>启动离心</returns>
+            <exception cref="T:BR.ECS.Executor.Device.Domain.Share.DeviceException"></exception>
+        </member>
+        <member name="M:BR.ECS.DeviceDriver.Centrifuge.renzi_AC380V.Centrifuge_renzi_AC380V.BY_StopCentrifuge">
+            <summary>
+            停止离心
+            </summary>
+            <returns>停止离心</returns>
+            <exception cref="T:BR.ECS.Executor.Device.Domain.Share.DeviceException"></exception>
+        </member>
+    </members>
+</doc>
